@@ -1,18 +1,1 @@
-[
-  {
-    "title": "test3",
-    "doc": "doc",
-    "code": [
-      "code",
-      "code2"
-    ]
-  },
-  {
-    "title": "testXYZ",
-    "doc": "doc",
-    "code": [
-      "code1",
-      "code2"
-    ]
-  }
-]
+[{"title":"test3","doc":"doc","code":["code","code2"]},{"title":"testXYZ","doc":"doc","code":["code1","code2-edited"]}]
